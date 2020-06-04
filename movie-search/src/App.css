@@ -14,3 +14,9 @@
   padding: 20px;
   cursor: pointer;
 }
+
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
