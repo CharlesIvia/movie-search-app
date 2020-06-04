@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 import Search from "./components/Search";
+import Results from "./components/Results";
 
 function App() {
   const apiurl = "http://www.omdbapi.com/?apikey=fd010aa6";
@@ -37,7 +38,8 @@ function App() {
         <h1>Hooked</h1>
       </header>
       <main>
-        <Search handleInput={handleInput} search={search} />
+              <Search handleInput={handleInput} search={search} />
+              <Results results={state.results} />
       </main>
     </div>
   );
