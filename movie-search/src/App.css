@@ -56,6 +56,11 @@ section {
   display: flex;
   flex-wrap: wrap;
   max-width: 0px -15px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: auto;
+  left: auto;
 }
 
 .results .result {
@@ -111,17 +116,22 @@ section {
 .popup .content h2 {
   font-size: 28px;
   font-weight: 600;
+  margin-left: 12.5px;
 }
 .popup .content h2 span {
-  font-size: 20px;
+  font-size: 28px;
   font-weight: 300;
 }
 
-.popup .content .rating {
+.rating {
   margin-bottom: 30px;
   display: flex;
   flex-wrap: wrap;
   margin: 0px -15px 30px;
+  margin-left: 14px;
+  margin-top: 10px;
+  font-size: 18px;
+  color: rgb(231, 42, 42);
 }
 
 .popup .content .plot img {
@@ -135,7 +145,7 @@ section {
   padding: 15px;
 }
 
-.plot .content .close {
+.close {
   display: inline;
   padding: 15px 30px;
   font-size: 18px;
@@ -149,6 +159,7 @@ section {
   appearance: none;
   cursor: pointer;
   transition: 0.4s ease-out;
+  margin-left: 10px;
 }
 
 .popup .content .close:hover {
