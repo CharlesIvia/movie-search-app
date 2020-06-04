@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CharlesIvia/movie-search-app/static/css/main.72d397d3.chunk.css",
+    "main.js": "/CharlesIvia/movie-search-app/static/js/main.79278bbf.chunk.js",
+    "main.js.map": "/CharlesIvia/movie-search-app/static/js/main.79278bbf.chunk.js.map",
+    "runtime-main.js": "/CharlesIvia/movie-search-app/static/js/runtime-main.850f1feb.js",
+    "runtime-main.js.map": "/CharlesIvia/movie-search-app/static/js/runtime-main.850f1feb.js.map",
+    "static/js/2.4da79d1f.chunk.js": "/CharlesIvia/movie-search-app/static/js/2.4da79d1f.chunk.js",
+    "static/js/2.4da79d1f.chunk.js.map": "/CharlesIvia/movie-search-app/static/js/2.4da79d1f.chunk.js.map",
+    "index.html": "/CharlesIvia/movie-search-app/index.html",
+    "precache-manifest.1054724df29cc398ba998424e7168393.js": "/CharlesIvia/movie-search-app/precache-manifest.1054724df29cc398ba998424e7168393.js",
+    "service-worker.js": "/CharlesIvia/movie-search-app/service-worker.js",
+    "static/css/main.72d397d3.chunk.css.map": "/CharlesIvia/movie-search-app/static/css/main.72d397d3.chunk.css.map",
+    "static/js/2.4da79d1f.chunk.js.LICENSE.txt": "/CharlesIvia/movie-search-app/static/js/2.4da79d1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.850f1feb.js",
+    "static/js/2.4da79d1f.chunk.js",
+    "static/css/main.72d397d3.chunk.css",
+    "static/js/main.79278bbf.chunk.js"
+  ]
+}
